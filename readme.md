@@ -10,20 +10,30 @@ Sparr bridges the gap between job requirements and candidate qualifications by c
 
 It guides candidates through a structured preparation journey, helping them identify what they need to improve and prepare for their target jobs.
 
+![Sparr Project Overview](intro.png)
+
 ---
 
 ## 2. The Problem
+
+Before developing Sparr, we identified four main challenges that candidates face during interview preparation.
 
 - **Generic Interview Preparation:** Traditional methods rely on common questions and answers that may not reflect the requirements of a specific job.
 - **Difficulty Identifying Skill Gaps:** Candidates often struggle to understand the difference between their current qualifications and the skills required by employers.
 - **Lack of Clear Preparation Direction:** Candidates may not know which skills to improve or how to prioritize their learning before an interview.
 - **Time-Consuming Preparation:** Preparing through scattered resources and unrelated materials makes the process less organized and effective.
 
+  These challenges make interview preparation less focused and effective.
+
+  ![The Problem](problem.jpg)
+
 ---
 
 ## 3. Our Solution
 
-Sparr transforms interview preparation into a personalized journey tailored to each candidate and their career goals.
+To address these challenges, we developed Sparr to make interview preparation more personalized and organized.
+
+Our solution focuses on three main features.
 
 - **Personalized Preparation:** Prepare candidates based on their skills and target job requirements.
 - **Focused Learning:** Help candidates identify and improve their skill gaps.
