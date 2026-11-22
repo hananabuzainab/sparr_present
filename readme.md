@@ -85,6 +85,7 @@ Sparr is built using the following technologies:
 
 Now, let's walk through Sparr and see how the platform works through a practical demonstration.
 
+Link: https://sparr-ai.mooo.com/
 ---
 
 ## 9. Team Members & Contributions
