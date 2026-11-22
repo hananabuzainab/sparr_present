@@ -1,4 +1,4 @@
-# Sparr: AI-Powered Interview Preparation Platform
+# Sparr: AI-Powered Interview Preparation and Evaluation Platform
 
 ## 1. Project Overview
 
