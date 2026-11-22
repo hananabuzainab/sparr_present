@@ -55,7 +55,7 @@ Sparr is designed for individuals who want to improve their job readiness and pr
 
 ## 5. Key Features
 
-Sparr provides integrated features that support candidates throughout their interview preparation journey.
+Sparr integrates secure data management, asynchronous processing, and AI-powered analysis to deliver the following core features.
 
 ![System Features](photo_5771588644941533309_y.jpg)
 
