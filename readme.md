@@ -65,7 +65,7 @@ Sparr provides integrated features that support candidates throughout their inte
 
 The following workflow illustrates how Sparr guides candidates through each stage of the interview preparation process, from uploading their resumes to receiving their final interview reports.
 
-![Sparr Workflow](workflow.png)
+![Sparr Workflow](workflow.jpg)
 
 ---
 
