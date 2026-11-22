@@ -57,7 +57,7 @@ Sparr is designed for individuals who want to improve their job readiness and pr
 
 Sparr provides integrated features that support candidates throughout their interview preparation journey.
 
-![System Features](sparr_key_features.png)
+![System Features](photo_5771588644941533309_y.jpg)
 
 ---
 
