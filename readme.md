@@ -15,14 +15,13 @@ It guides candidates through a structured preparation journey, helping them iden
 
 ## 2. The Problem
 
-Before developing Sparr, we identified four main challenges that candidates face during interview preparation.
+Before developing Sparr, we identified two main challenges:
 
-- **Generic Interview Preparation:** Traditional methods rely on common questions and answers that may not reflect the requirements of a specific job.
-- **Difficulty Identifying Skill Gaps:** Candidates often struggle to understand the difference between their current qualifications and the skills required by employers.
-- **Lack of Clear Preparation Direction:** Candidates may not know which skills to improve or how to prioritize their learning before an interview.
-- **Time-Consuming Preparation:** Preparing through scattered resources and unrelated materials makes the process less organized and effective.
+- **Inefficient Candidate Evaluation:** Employers and candidates lack an automated way to assess interview responses, evaluate candidate suitability, and identify strengths and weaknesses.
 
-  These challenges make interview preparation less focused and effective.
+
+
+- **Unclear Skill Gaps & Development Direction:** Candidates struggle to identify the skills they lack compared to job requirements and determine what they should improve to become more qualified.
 
   ![The Problem](problem.jpg)
 
@@ -30,7 +29,7 @@ Before developing Sparr, we identified four main challenges that candidates face
 
 ## 3. Our Solution
 
-To address these challenges, we developed Sparr to make interview preparation more personalized and organized.
+To address these challenges, we developed Sparr to make interview preparation and evaluation more personalized and organized.
 
 Our solution focuses on three main features.
 
