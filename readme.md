@@ -2,12 +2,11 @@
 
 ## 1. Project Overview
 
-Preparing for a job interview is not just about practicing common questions. It is about understanding what a specific job requires and how well your qualifications meet those requirements.
+Preparing for a job interview is not just about practicing common questions. It is about understanding what a specific job requires and how well your qualifications match those requirements.
 
 This is the idea behind Sparr.
 
-Sparr bridges the gap between job requirements and candidate qualifications by combining AI-powered skill analysis, personalized learning roadmaps, and interview practice in one platform.
-
+Sparr is an AI-powered interview preparation platform that bridges the gap between job requirements and candidate qualifications. 
 It guides candidates through a structured preparation journey, helping them identify what they need to improve and prepare for their target jobs.
 
 ![Sparr Project Overview](intro.png)
