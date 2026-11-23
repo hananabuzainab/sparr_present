@@ -74,7 +74,7 @@ Sparr is built using the following technologies:
 - **React:** For building the user interface.
 - **Laravel:** For backend development and data management.
 - **Python & FastAPI:** For AI services and processing.
-- **Google Gemini:** For AI-powered analysis, interview question generation, and answer evaluation.
+- **Google Gemini and cluade :** For AI-powered analysis, interview question generation, and answer evaluation.
 - **Docker:** For containerizing services.
 
 ---
